@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos |
+# Sistema de cadastro de jogos | # treinamento alura Git e GitHub
 
 > Status  do projeto: Em desenvolvimento 
 
